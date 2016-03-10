@@ -7,6 +7,9 @@ Bundles the following packages together.
 <h4><a href="https://github.com/almasaeed2010/AdminLTE/tree/master"> AdminLTE</a> </h4>
 <p>AdminLTE  is a fully responsive admin template. Based on <strong> <a href="https://github.com/twbs/bootstrap">Bootstrap 3</a></strong> framework. Highly customizable and easy to use. Fits many screen resolutions from small mobile devices to large desktops. Check out the live preview now and see for yourself.</p>
 
+<h4><a href="https://github.com/benedmunds/CodeIgniter-Ion-Auth">Ion Auth 2</a></h4>
+<p>Simple and Lightweight Auth System for CodeIgniter Documentation is located at <a href="http://benedmunds.com/ion_auth/">http://benedmunds.com/ion_auth/</a></p>
+
 <h2>Server Requirements</h2>
 <p>PHP version 5.4 or newer is recommended.</p>
 <p>It should work on 5.2.4 as well, but we strongly advise you NOT to run
